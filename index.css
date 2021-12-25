@@ -5,10 +5,12 @@ body {
 h1 {
     font-size: 65px;
     text-align: center;
+    font-family: Helvetica, sans-serif;
 }
 
 ul {
     text-align: center;
     list-style-position: inside;
     font-size: 1.25em;
+    font-family: Helvetica, sans-serif;
 }
