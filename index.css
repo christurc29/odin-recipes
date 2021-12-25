@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(90deg, rgb(180, 253, 235), rgb(36, 134, 105));
+}
+
+h1 {
+    font-size: 65px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 1.25em;
+}
